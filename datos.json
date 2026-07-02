@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1,
+    "fecha": "2026-06-22",
+    "concepto": "RAFA LE LLEVO DINERO A ARQUITECTO A VILLAS PARAISO PARA ARRANCAR OBRA",
+    "monto": 30000,
+    "cat": "Materiales"
+  }
+]
