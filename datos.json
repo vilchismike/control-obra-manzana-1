@@ -21,5 +21,12 @@
     "concepto": "PAGO DE MATERIAL DE ARRANQUE DE OBRA MANZANA 1 LOTE 1",
     "monto": 172025.94,
     "cat": "Materiales"
+  },
+  {
+    "id": 4,
+    "fecha": "2026-06-29",
+    "concepto": "RAFA SE ENTREGA AL ARQUITECTO EN VILLAS",
+    "monto": 40000,
+    "cat": "Materiales"
   }
 ]
