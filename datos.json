@@ -11,7 +11,8 @@
     "id": 2,
     "fecha": "2026-06-27",
     "concepto": "RAFA LE LLEVO DINERO A LA OBRA EN VILLAS PARAISO",
-    "monto": 27000,
-    "cat": "Mano de obra"
+    "monto": 25000,
+    "cat": "Mano de obra",
+    "editing": false
   }
 ]
