@@ -14,5 +14,12 @@
     "monto": 25000,
     "cat": "Mano de obra",
     "editing": false
+  },
+  {
+    "id": 3,
+    "fecha": "2026-06-27",
+    "concepto": "PAGO DE MATERIAL DE ARRANQUE DE OBRA MANZANA 1 LOTE 1",
+    "monto": 172025.94,
+    "cat": "Materiales"
   }
 ]
