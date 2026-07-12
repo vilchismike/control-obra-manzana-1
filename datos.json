@@ -28,5 +28,12 @@
     "concepto": "RAFA SE ENTREGA AL ARQUITECTO EN VILLAS",
     "monto": 40000,
     "cat": "Materiales"
+  },
+  {
+    "id": 5,
+    "fecha": "2026-07-04",
+    "concepto": "RAFA LE LLEVA DINERO AL ARQUI EN VILLAS PARAISO",
+    "monto": 30000,
+    "cat": "Mano de obra"
   }
 ]
