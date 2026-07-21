@@ -56,5 +56,12 @@
     "concepto": "SE LE LLEVA DINERO AL ARQUI A VILLAS PARAISO",
     "monto": 45000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 9,
+    "fecha": "2026-07-21",
+    "concepto": "DEPOSITO A CARPINTERO PARA TRABAJOS DE PUERTAS",
+    "monto": 6000,
+    "cat": "Materiales"
   }
 ]
