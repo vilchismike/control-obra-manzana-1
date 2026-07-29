@@ -63,5 +63,12 @@
     "concepto": "DEPOSITO A CARPINTERO PARA TRABAJOS DE PUERTAS",
     "monto": 6000,
     "cat": "Materiales"
+  },
+  {
+    "id": 10,
+    "fecha": "2026-07-25",
+    "concepto": "RAFA LE LLEVA DINERO AL ARQUITECTO A VILLAS PARAISO",
+    "monto": 30000,
+    "cat": "Mano de obra"
   }
 ]
