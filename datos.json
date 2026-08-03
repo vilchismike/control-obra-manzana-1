@@ -70,5 +70,12 @@
     "concepto": "RAFA LE LLEVA DINERO AL ARQUITECTO A VILLAS PARAISO",
     "monto": 30000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 11,
+    "fecha": "2026-08-01",
+    "concepto": "NOMINA PARA ARQUITECTO ALEX",
+    "monto": 25000,
+    "cat": "Mano de obra"
   }
 ]
