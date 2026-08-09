@@ -84,5 +84,12 @@
     "concepto": "RAFA LE LLEVO A ALEX SE LOS DA EN SAN NICOLAS",
     "monto": 15000,
     "cat": "Materiales"
+  },
+  {
+    "id": 13,
+    "fecha": "2026-08-07",
+    "concepto": "Pago anticipo Carpintero puertas Villas Paraiso",
+    "monto": 18000,
+    "cat": "Materiales"
   }
 ]
