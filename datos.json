@@ -100,7 +100,7 @@
     "fecha": "2026-08-08",
     "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
     "monto": 20000,
-    "cat": "Materiales",
+    "cat": "Mano de obra",
     "editing": false
   },
   {
@@ -108,6 +108,7 @@
     "fecha": "2026-08-08",
     "concepto": "Compra material de TAMEX",
     "monto": 15833.36,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   }
 ]
