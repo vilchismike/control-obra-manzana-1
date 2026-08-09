@@ -102,13 +102,5 @@
     "monto": 20000,
     "cat": "Materiales",
     "editing": false
-  },
-  {
-    "id": 14,
-    "fecha": "2026-08-08",
-    "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
-    "monto": 20000,
-    "cat": "Mano de obra",
-    "editing": false
   }
 ]
