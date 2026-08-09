@@ -102,5 +102,12 @@
     "monto": 20000,
     "cat": "Materiales",
     "editing": false
+  },
+  {
+    "id": 14,
+    "fecha": "2026-08-08",
+    "concepto": "Compra material de TAMEX",
+    "monto": 15833.36,
+    "cat": "Materiales"
   }
 ]
