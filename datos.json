@@ -102,12 +102,5 @@
     "monto": 20000,
     "cat": "Materiales",
     "editing": false
-  },
-  {
-    "id": 15,
-    "fecha": "2026-08-14",
-    "concepto": "w",
-    "monto": 1,
-    "cat": "Mano de obra"
   }
 ]
