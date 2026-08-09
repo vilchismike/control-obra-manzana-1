@@ -20,83 +20,95 @@
     "fecha": "2026-06-27",
     "concepto": "PAGO DE MATERIAL DE ARRANQUE DE OBRA MANZANA 1 LOTE 1",
     "monto": 172025.94,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 4,
     "fecha": "2026-06-29",
     "concepto": "RAFA SE ENTREGA AL ARQUITECTO EN VILLAS",
     "monto": 40000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 5,
     "fecha": "2026-07-04",
     "concepto": "RAFA LE LLEVA DINERO AL ARQUI EN VILLAS PARAISO",
     "monto": 30000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 6,
     "fecha": "2026-07-08",
     "concepto": "VINO ARQUI ALEX A CASA DE MIKI EN VILLA NORTE POR DINERO",
     "monto": 25000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 7,
     "fecha": "2026-07-11",
     "concepto": "RAFA LE LLEVA DINERO AL ARQUI A VILLAS PARAISO",
     "monto": 25000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 8,
     "fecha": "2026-07-18",
     "concepto": "SE LE LLEVA DINERO AL ARQUI A VILLAS PARAISO",
     "monto": 45000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 9,
     "fecha": "2026-07-21",
     "concepto": "DEPOSITO A CARPINTERO PARA TRABAJOS DE PUERTAS",
     "monto": 6000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 10,
     "fecha": "2026-07-25",
     "concepto": "RAFA LE LLEVA DINERO AL ARQUITECTO A VILLAS PARAISO",
     "monto": 30000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 11,
     "fecha": "2026-08-01",
     "concepto": "NOMINA PARA ARQUITECTO ALEX",
     "monto": 25000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 12,
     "fecha": "2026-08-04",
     "concepto": "RAFA LE LLEVO A ALEX SE LOS DA EN SAN NICOLAS",
     "monto": 15000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 13,
-    "fecha": "2026-08-07",
-    "concepto": "Pago anticipo Carpintero puertas Villas Paraiso",
-    "monto": 18000,
-    "cat": "Materiales"
+    "fecha": "2026-08-08",
+    "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
+    "monto": 20000,
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 14,
     "fecha": "2026-08-08",
     "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
     "monto": 20000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   }
 ]
