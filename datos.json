@@ -125,5 +125,12 @@
     "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
     "monto": 20000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 17,
+    "fecha": "2026-08-21",
+    "concepto": "Arquitecto pidio transferencia para MATERIALES",
+    "monto": 3000,
+    "cat": "Materiales"
   }
 ]
