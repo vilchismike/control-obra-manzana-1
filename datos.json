@@ -132,5 +132,12 @@
     "concepto": "Arquitecto pidio transferencia para MATERIALES",
     "monto": 3000,
     "cat": "Materiales"
+  },
+  {
+    "id": 18,
+    "fecha": "2026-08-22",
+    "concepto": "Le doy al Arqui en FIX para nomina",
+    "monto": 30000,
+    "cat": "Mano de obra"
   }
 ]
