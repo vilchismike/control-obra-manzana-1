@@ -106,7 +106,7 @@
   {
     "id": 14,
     "fecha": "2026-08-08",
-    "concepto": "Compra material de TAMEX",
+    "concepto": "Compra material de TAMEX (TARJETA CREDITO)",
     "monto": 15833.36,
     "cat": "Materiales",
     "editing": false
@@ -124,20 +124,23 @@
     "fecha": "2026-08-15",
     "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
     "monto": 20000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 17,
     "fecha": "2026-08-21",
     "concepto": "Arquitecto pidio transferencia para MATERIALES",
     "monto": 3000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 18,
     "fecha": "2026-08-22",
     "concepto": "Le doy al Arqui en FIX para nomina",
     "monto": 30000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   }
 ]
