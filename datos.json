@@ -149,5 +149,12 @@
     "concepto": "Rafa le da dinero al Arqui en ELECTRUM",
     "monto": 6000,
     "cat": "Materiales"
+  },
+  {
+    "id": 20,
+    "fecha": "2026-08-29",
+    "concepto": "RAFA LE LLEVA DINERO AL ARQUITECTO A VILLAS PARAISO",
+    "monto": 25000,
+    "cat": "Mano de obra"
   }
 ]
