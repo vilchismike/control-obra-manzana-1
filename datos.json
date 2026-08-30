@@ -142,5 +142,12 @@
     "monto": 30000,
     "cat": "Mano de obra",
     "editing": false
+  },
+  {
+    "id": 19,
+    "fecha": "2026-08-27",
+    "concepto": "Rafa le da dinero al Arqui en ELECTRUM",
+    "monto": 6000,
+    "cat": "Materiales"
   }
 ]
