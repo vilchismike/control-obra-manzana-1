@@ -163,5 +163,12 @@
     "concepto": "RAFA LE LLEVA DINERO AL ARQUI",
     "monto": 37000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 22,
+    "fecha": "2026-09-08",
+    "concepto": "Le doy al Arqui en San Roman",
+    "monto": 5000,
+    "cat": "Materiales"
   }
 ]
