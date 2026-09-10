@@ -156,5 +156,12 @@
     "concepto": "RAFA LE LLEVA DINERO AL ARQUITECTO A VILLAS PARAISO",
     "monto": 25000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 21,
+    "fecha": "2026-09-05",
+    "concepto": "RAFA LE LLEVA DINERO AL ARQUI",
+    "monto": 37000,
+    "cat": "Mano de obra"
   }
 ]
