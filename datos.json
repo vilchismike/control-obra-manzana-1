@@ -179,7 +179,8 @@
     "id": 23,
     "fecha": "2026-09-08",
     "concepto": "Le doy al Arqui en San Roman",
-    "monto": 8000,
-    "cat": "Materiales"
+    "monto": 5000,
+    "cat": "Materiales",
+    "editing": false
   }
 ]
