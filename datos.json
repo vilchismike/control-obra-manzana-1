@@ -106,7 +106,7 @@
   {
     "id": 14,
     "fecha": "2026-08-08",
-    "concepto": "Compra material de TAMEX (TARJETA CREDITO)",
+    "concepto": "Transfe para pagar a TAMEX villas paraiso Manzana 1 lote 1",
     "monto": 15833.36,
     "cat": "Materiales",
     "editing": false
@@ -148,27 +148,31 @@
     "fecha": "2026-08-27",
     "concepto": "Rafa le da dinero al Arqui en ELECTRUM",
     "monto": 6000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 20,
     "fecha": "2026-08-29",
     "concepto": "RAFA LE LLEVA DINERO AL ARQUITECTO A VILLAS PARAISO",
     "monto": 25000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 21,
     "fecha": "2026-09-05",
     "concepto": "RAFA LE LLEVA DINERO AL ARQUI",
     "monto": 37000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 22,
     "fecha": "2026-09-08",
     "concepto": "Le doy al Arqui en San Roman",
     "monto": 5000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   }
 ]
