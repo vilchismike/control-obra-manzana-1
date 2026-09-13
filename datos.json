@@ -174,5 +174,12 @@
     "monto": 37000,
     "cat": "Mano de obra",
     "editing": false
+  },
+  {
+    "id": 23,
+    "fecha": "2026-09-08",
+    "concepto": "Le doy al Arqui en San Roman",
+    "monto": 8000,
+    "cat": "Materiales"
   }
 ]
