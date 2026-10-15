@@ -182,5 +182,12 @@
     "monto": 5000,
     "cat": "Materiales",
     "editing": false
+  },
+  {
+    "id": 24,
+    "fecha": "2026-10-14",
+    "concepto": "Tarja de arquitecto MZA 1",
+    "monto": 2899,
+    "cat": "Materiales"
   }
 ]
