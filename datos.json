@@ -189,5 +189,12 @@
     "concepto": "Tarja de arquitecto MZA 1",
     "monto": 2899,
     "cat": "Materiales"
+  },
+  {
+    "id": 25,
+    "fecha": "2026-10-14",
+    "concepto": "Compra de piso para CASA interceramic",
+    "monto": 48630,
+    "cat": "Materiales"
   }
 ]
