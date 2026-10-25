@@ -203,5 +203,12 @@
     "concepto": "Rafa le lleva dinero a santa rita al arqui",
     "monto": 5000,
     "cat": "Materiales"
+  },
+  {
+    "id": 27,
+    "fecha": "2026-10-24",
+    "concepto": "Rafa le lleva dinero a villas paraiso",
+    "monto": 15000,
+    "cat": "Mano de obra"
   }
 ]
