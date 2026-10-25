@@ -196,5 +196,12 @@
     "concepto": "Compra de piso para CASA interceramic",
     "monto": 48630,
     "cat": "Materiales"
+  },
+  {
+    "id": 26,
+    "fecha": "2026-10-22",
+    "concepto": "Rafa le lleva dinero a santa rita al arqui",
+    "monto": 5000,
+    "cat": "Materiales"
   }
 ]
