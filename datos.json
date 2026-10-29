@@ -210,5 +210,12 @@
     "concepto": "Rafa le lleva dinero a villas paraiso",
     "monto": 15000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 28,
+    "fecha": "2026-10-28",
+    "concepto": "Viene tokes a casa de mi mama en hidrosistemas",
+    "monto": 10000,
+    "cat": "Materiales"
   }
 ]
