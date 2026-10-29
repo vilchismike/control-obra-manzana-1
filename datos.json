@@ -217,5 +217,12 @@
     "concepto": "Viene tokes a casa de mi mama en hidrosistemas",
     "monto": 10000,
     "cat": "Materiales"
+  },
+  {
+    "id": 29,
+    "fecha": "2026-10-29",
+    "concepto": "Compras del gigante del azulejo -  muebles de baño",
+    "monto": 8640,
+    "cat": "Materiales"
   }
 ]
