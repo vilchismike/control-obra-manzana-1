@@ -224,5 +224,12 @@
     "concepto": "Compras del gigante del azulejo -  muebles de baño",
     "monto": 8640,
     "cat": "Materiales"
+  },
+  {
+    "id": 30,
+    "fecha": "2026-10-31",
+    "concepto": "Rafa le lleva dinero al arqui a villas",
+    "monto": 20000,
+    "cat": "Mano de obra"
   }
 ]
