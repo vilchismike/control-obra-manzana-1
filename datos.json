@@ -268,5 +268,12 @@
     "concepto": "Rafa le lleva dinero al arqui a villas paraiso",
     "monto": 15000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 36,
+    "fecha": "2026-11-10",
+    "concepto": "Le doy al arqui dinero en la notaria 17 aprovechando que firmo terreno de encinos",
+    "monto": 10000,
+    "cat": "Materiales"
   }
 ]
