@@ -262,5 +262,12 @@
     "monto": 20000,
     "cat": "Mano de obra",
     "editing": false
+  },
+  {
+    "id": 34,
+    "fecha": "2026-11-07",
+    "concepto": "Anticipo de las puertas para Villas Paraiso Manzana 1",
+    "monto": 18000,
+    "cat": "Materiales"
   }
 ]
