@@ -261,5 +261,12 @@
     "concepto": "Anticipo de las puertas para Villas Paraiso Manzana 1",
     "monto": 18000,
     "cat": "Materiales"
+  },
+  {
+    "id": 35,
+    "fecha": "2026-11-07",
+    "concepto": "Rafa le lleva dinero al arqui a villas paraiso",
+    "monto": 15000,
+    "cat": "Mano de obra"
   }
 ]
