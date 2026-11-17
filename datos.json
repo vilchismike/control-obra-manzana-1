@@ -275,5 +275,12 @@
     "concepto": "Le doy al arqui dinero en la notaria 17 aprovechando que firmo terreno de encinos",
     "monto": 10000,
     "cat": "Materiales"
+  },
+  {
+    "id": 37,
+    "fecha": "2026-11-14",
+    "concepto": "Le doy a Arqui en el azucareros",
+    "monto": 20000,
+    "cat": "Mano de obra"
   }
 ]
