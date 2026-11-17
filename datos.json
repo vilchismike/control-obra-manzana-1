@@ -188,69 +188,79 @@
     "fecha": "2026-10-14",
     "concepto": "Tarja de arquitecto MZA 1",
     "monto": 2899,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 25,
     "fecha": "2026-10-14",
     "concepto": "Compra de piso para CASA interceramic",
     "monto": 48630,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 26,
     "fecha": "2026-10-22",
     "concepto": "Rafa le lleva dinero a santa rita al arqui",
     "monto": 5000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 27,
     "fecha": "2026-10-24",
     "concepto": "Rafa le lleva dinero a villas paraiso",
     "monto": 15000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 28,
     "fecha": "2026-10-28",
     "concepto": "Viene tokes a casa de mi mama en hidrosistemas",
     "monto": 10000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 29,
     "fecha": "2026-10-29",
     "concepto": "Compras del gigante del azulejo -  muebles de baño",
     "monto": 8640,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 30,
     "fecha": "2026-10-31",
     "concepto": "Rafa le lleva dinero al arqui a villas",
     "monto": 20000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 31,
     "fecha": "2026-11-15",
     "concepto": "Rafa le lleva al arqui a villas paraiso",
     "monto": 15000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 32,
-    "fecha": "2026-11-10",
-    "concepto": "Le doy al arqui dinero en la notaria 17 aprovechando que firmo terreno de encinos",
-    "monto": 10000,
-    "cat": "Materiales"
+    "fecha": "2026-11-07",
+    "concepto": "Pago de Ferrer Aluminio para Villas Paraiso Manzana 1",
+    "monto": 35000,
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 33,
     "fecha": "2026-11-14",
     "concepto": "Le doy a Arqui en el azucareros",
     "monto": 20000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   }
 ]
