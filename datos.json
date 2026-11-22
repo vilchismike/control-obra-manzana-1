@@ -289,5 +289,12 @@
     "concepto": "Pago de TAMEX vía transferencia",
     "monto": 12673.03,
     "cat": "Materiales"
+  },
+  {
+    "id": 39,
+    "fecha": "2026-11-21",
+    "concepto": "Rafa le lleva dinero al arqui a villas paraiso",
+    "monto": 20000,
+    "cat": "Mano de obra"
   }
 ]
