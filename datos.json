@@ -296,5 +296,12 @@
     "concepto": "Rafa le lleva dinero al arqui a villas paraiso",
     "monto": 20000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 40,
+    "fecha": "2026-11-23",
+    "concepto": "Le doy a Carpintero por puertas de villas Paraiso",
+    "monto": 5000,
+    "cat": "Materiales"
   }
 ]
